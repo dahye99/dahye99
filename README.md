@@ -61,7 +61,7 @@ From here on, let me introduce myself and my work!
 
 ### 📫 Contact
 
-**Email**: dahyesong99@gmail.com
+📧**Email**📧: dahyesong99@gmail.com
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahye-song-b1aaba289/)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-8785-8426)
@@ -76,7 +76,7 @@ From here on, let me introduce myself and my work!
     />
   </a>
 </p>
-<p align="center">
+<p align="center" style="position: relative;">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:8FA31E&section=footer"
     alt="footer"
