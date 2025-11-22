@@ -66,3 +66,12 @@ From here on, let me introduce myself and my work!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dahye-song-b1aaba289/)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0000-0002-8785-8426)
 
+---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dahye99&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/dahye99"
+  width="600"
+  height="300"
+/>
+</a>
+
