@@ -69,11 +69,11 @@ From here on, let me introduce myself and my work!
 ---
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dahye99&utm_content=farm">
-    <img
-      src="https://render.gitanimals.org/farms/dahye99"
-      width="600"
-      height="300"
-    />
+  <img
+    src="https://render.gitanimals.org/farms/dahye99"
+    width="600"
+    height="300"
+  />
   </a>
 </p>
 <p align="center" style="position: relative;">
