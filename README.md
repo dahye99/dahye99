@@ -55,7 +55,7 @@ From here on, let me introduce myself and my work!
 
 ### 🚧 Currently Working On
 
-- [ ] Non-ground-truth tumor segmentation model  
+- [ ] Non-ground-truth tumor segmentation model (Still in the coding mines… When the paper is released, the repo will be unleashed as well. Scout’s honor!)
 
 ---
 
