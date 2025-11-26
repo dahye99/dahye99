@@ -57,7 +57,7 @@ From here on, let me introduce myself and my work!
 
 - [ ] Non-ground-truth tumor segmentation model
       
-  (Still in the coding mines…😭 When the paper is released, the repo will be unleashed as well. Hold me accountable, please!)
+  *(Still in the coding mines…😭 When the paper is released, the repo will be unleashed as well. Hold me accountable, please!)*
 
 ---
 
