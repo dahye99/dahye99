@@ -28,7 +28,7 @@ From here on, let me introduce myself and my work!
 - Drug discovery
 - Anomaly detection & anomaly segmentation
 - Generative models (GAN / VAE / diffusion / VQ-VAE)
-- Graph-based learning (GNN, Graph U-Net, SOM-based clustering)
+- Graph-based learning
 
 
 ---
